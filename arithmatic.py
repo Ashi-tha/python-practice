@@ -18,4 +18,4 @@ dress**=2
 
 remainder= dress%3
 
-print(dress)
+#print(dress)

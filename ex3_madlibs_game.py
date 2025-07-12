@@ -10,5 +10,5 @@ verb1 = input("enter a verb ending with'ing")
 
 print(f"Today I went to a {adjective1} zoo")
 print(f"In an exhibit, I saw a {noun1}")
-print(f"{noun} was {adjective2} and {verb1}")
-print(f"I was {adjective3}!")
+print(f"{noun1} was {adjective1} and {verb1}")
+print(f"I was {adjective1}!")
